@@ -1,6 +1,6 @@
 // interfaz con P5.js para ue se vea bonito
 
-// asd
+// Cambio1
 
 class Anillo {
   constructor(diametro) {
