@@ -1,12 +1,6 @@
 // interfaz con P5.js para ue se vea bonito
 
-// state
-
-//for (var i=0;i<n;i++){
-  //ellipse((30+n*10)/2,10+i*20,30+i*10,20);
-  //anillo((30+n*10)/2,10+i*20,30+i*10,20);
-  //anillo(r,g,b,30+i*10);
-//}
+// asd
 
 class Anillo {
   constructor(diametro) {
@@ -47,7 +41,7 @@ class Torre {
     pilaDestino.pon(this.anillos[this.anillos.length-1]);
     this.anillos.pop;
     this.anillos.length=this.anillos.length-1
-    
+
   }
   display() {
 
